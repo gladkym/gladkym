@@ -12,13 +12,22 @@
 
 
 ## 🥷 Мои проекты
-### 🧩 Проект 1: Task Manager
-- Stack: React, TypeScript, Zustand
-- Описание: SPA для управления задачами с фильтрацией и драг-н-дроп функцией
+## Тестовые:
+### 🧩 Проект 1: online-shop
+- Stack: html, css, js
+- Описание: небольшой интернет магазин, нужно было быстро адаптивно сверстать страницу
+- [сайт](https://gladkym.github.io/urbandwelling/?#) 
 
-### 📊 Проект 2: ERP-система
-- Stack: Vue.js, Vuex, REST API
-- Описание: Веб-интерфейс для управления складом и заказами
+### 🧩 Проект 2: online-shop 
+- Stack: react, css
+- Описание:  адаптивный интернет магазин, корзина, калькулятор товаров
+- [сайт](https://github.com/gladkym/neoflex)
+
+## Коммерческие:
+- Stack: html, css, js, API
+- Описание: реализация интерактивной svg-карты, работа с API, передача данных через bitrix
+- [сайт](https://gladkym.github.io/dachi/) 
+
 
 ## 🧠 Активность
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gladkym&show_icons=true&theme=dracula)
@@ -27,4 +36,5 @@
 - JavaScript, TypeScript
 - React, Redux, RTK Query
 - HTML, SCSS, Tailwind
-- Git, REST API, Jest
+- Git, REST API
+
