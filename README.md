@@ -7,7 +7,7 @@
 ## 📫 Связаться со мной
 - Telegram: [@mxgld0](https://t.me/mxgld0) 
 - Email: gladkiiya@gmail.com
-- LinkedIn: [profile](https://linkedin.com/in/...) 
+- LinkedIn: [profile](https://linkedin.com/in/mgladky/) 
 - CV: [скачать резюме](https://drive.google.com/file/d/...) 
 
 ## 🥷 Мои проекты
