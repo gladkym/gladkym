@@ -2,13 +2,14 @@
 
 ## 💼 Frontend Developer | TypeScript | React | Redux
 
-Работаю над масштабными интерфейсами, решаю алгоритмы, пишу статьи о React.
+Работаю над масштабными интерфейсами, решаю алгоритмы
 
 ## 📫 Связаться со мной
 - Telegram: [@mxgld0](https://t.me/mxgld0) 
 - Email: gladkiiya@gmail.com
 - LinkedIn: [мой LinkedIn](https://linkedin.com/in/mgladky/)
 - HH: [мое резюме на hh.ru](https://spb.hh.ru/resume/27af996fff0cf43be50039ed1f734552553945)
+- CodeWars: [профиль на CodeWars](https://www.codewars.com/users/gladkym)
 
 
 ## 🥷 Мои проекты
