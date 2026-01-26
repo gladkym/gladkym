@@ -26,15 +26,16 @@
 
 
 ##  Коммерческие:
-Последние проекты: https://enekos.ru
-https://basslev.ru
-https://ostrovskie-dachi.ru
+Последние проекты: 
+- https://enekos.ru
+- https://basslev.ru
+- https://ostrovskie-dachi.ru
 
-https://aomeduslugi.ru
-https://dvlt.ru/
-https://sure.moscow
-https://rosi-store.ru/
-https://theweldercatherine.ru/
+- https://aomeduslugi.ru
+- https://dvlt.ru/
+- https://sure.moscow
+- https://rosi-store.ru/
+- https://theweldercatherine.ru/
 
 - Stack: html, css, js, API, Битрикс
 - Описание: реализация интерактивной svg-карты, работа с API (yandex map), передача данных через bitrix
