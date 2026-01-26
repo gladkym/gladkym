@@ -26,6 +26,7 @@
 - https://theweldercatherine.ru/
 
   Stack: html, css, js, API, Битрикс
+  
   Описание: реализация интерактивной svg-карты, работа с API (yandex map), передача данных через bitrix
 
 
