@@ -13,18 +13,6 @@
 
 
 ## 🥷 Мои проекты
-## Тестовые:
-### 🧩 Проект 1: SPA с карточками товаров
-- Stack: html, css, js
-- Описание: небольшой интернет магазин, нужно было быстро адаптивно сверстать страницу
-- [сайт](https://gladkym.github.io/urbandwelling/?#) 
-
-### 🧩 Проект 2: online-shop с корзиной
-- Stack: react, css
-- Описание:  адаптивный интернет магазин, корзина, калькулятор товаров
-- [сайт](https://github.com/gladkym/neoflex)
-
-
 ##  Коммерческие:
 Последние проекты: 
 - https://enekos.ru
@@ -37,8 +25,8 @@
 - https://rosi-store.ru/
 - https://theweldercatherine.ru/
 
-- Stack: html, css, js, API, Битрикс
-- Описание: реализация интерактивной svg-карты, работа с API (yandex map), передача данных через bitrix
+  Stack: html, css, js, API, Битрикс
+  Описание: реализация интерактивной svg-карты, работа с API (yandex map), передача данных через bitrix
 
 
 
