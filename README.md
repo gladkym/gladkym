@@ -2,11 +2,13 @@
 
 ### Web Developer | React · TypeScript · PHP · 1C-Bitrix
 
-I'm a web developer with a frontend focus, building responsive, user-friendly websites and web applications.
+I'm a web developer with a frontend focus, experienced in building and maintaining commercial websites and web applications.
 
-I work with React and TypeScript, develop reusable UI components, integrate REST APIs, and maintain commercial web projects.
+I work with React and TypeScript, develop reusable UI components, integrate REST APIs, and build responsive, interactive interfaces.
 
-I also have hands-on experience with PHP and 1C-Bitrix, including server-side functionality, component customization, and website maintenance.
+Beyond frontend development, I work with PHP and 1C-Bitrix, implementing and maintaining backend functionality for e-commerce projects.
+
+My backend experience includes product catalogs, infoblocks, database migrations, shopping cart and discount logic, and custom administration tools.
 
 ### 🛠 Tech Stack
 
@@ -24,7 +26,7 @@ I also have hands-on experience with PHP and 1C-Bitrix, including server-side fu
 
 **[Sure Moscow](https://sure.moscow)** — Website development and maintenance, responsive UI components, and interactive functionality.
 
-**[ROSI Store](https://rosi-store.ru/)** — E-commerce frontend improvements, product galleries, and interactive UI elements.
+**[ROSI Store](https://rosi-store.ru/)** — E-commerce frontend and backend improvements, product catalogs, interactive UI elements, and custom functionality.
 
 **[SBMRNE](https://sbmrne.ru/)** — Commercial website development and maintenance.
 
