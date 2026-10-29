@@ -1,12 +1,12 @@
 # Hi, I'm Maxim 👋
 
-### Frontend Developer | React • TypeScript • JavaScript
+### Web Developer | React · TypeScript · PHP · 1C-Bitrix
 
-I'm a frontend developer focused on building responsive, user-friendly websites and web applications.
+I'm a web developer with a frontend focus, building responsive, user-friendly websites and web applications.
 
-I work with React and TypeScript, develop reusable UI components, integrate REST APIs, and maintain existing commercial projects.
+I work with React and TypeScript, develop reusable UI components, integrate REST APIs, and maintain commercial web projects.
 
-I also have hands-on experience with PHP and 1C-Bitrix, including component customization and website maintenance.
+I also have hands-on experience with PHP and 1C-Bitrix, including server-side functionality, component customization, and website maintenance.
 
 ### 🛠 Tech Stack
 
@@ -14,17 +14,19 @@ I also have hands-on experience with PHP and 1C-Bitrix, including component cust
 
 **Styling:** HTML5, CSS3, SCSS, BEM, Bootstrap
 
-**Backend & CMS:** PHP, 1C-Bitrix, REST API
+**Backend & CMS:** PHP, 1C-Bitrix
+
+**Integrations:** REST API
 
 **Tools:** Git, Vite, Webpack, npm
 
 ### 💼 Selected Commercial Projects
 
-**[Sure Moscow](https://sure.moscow)** — Website development and maintenance, responsive UI components and interactive functionality.
+**[Sure Moscow](https://sure.moscow)** — Website development and maintenance, responsive UI components, and interactive functionality.
 
-**[ROSI Store](https://rosi-store.ru/)** — E-commerce frontend improvements, product galleries and interactive elements.
+**[ROSI Store](https://rosi-store.ru/)** — E-commerce frontend improvements, product galleries, and interactive UI elements.
 
-**[SBMRNE](https://sbmrne.ru/)** — Commercial web project.
+**[SBMRNE](https://sbmrne.ru/)** — Commercial website development and maintenance.
 
 **[DVLT](https://dvlt.ru/)** — Website maintenance and frontend updates.
 
@@ -33,4 +35,4 @@ I also have hands-on experience with PHP and 1C-Bitrix, including component cust
 - Telegram: [@mxgld](https://t.me/mxgld)
 - Email: gladkiiya@gmail.com
 
-Open to remote frontend development opportunities.
+Open to remote web development opportunities.
