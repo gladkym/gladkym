@@ -1,32 +1,36 @@
-# 👋 Привет! Меня зовут Максим Гладкий
+# Hi, I'm Maxim 👋
 
-## 💼 Frontend Developer | TypeScript | React | Redux
+### Frontend Developer | React • TypeScript • JavaScript
 
-Занимаюсь разработкой сайтов с нуля и доработкой существующих
+I'm a frontend developer focused on building responsive, user-friendly websites and web applications.
 
-## 📫 Связаться со мной
-- Telegram: [@mxgld](https://t.me/mxgld) 
+I work with React and TypeScript, develop reusable UI components, integrate REST APIs, and maintain existing commercial projects.
+
+I also have hands-on experience with PHP and 1C-Bitrix, including component customization and website maintenance.
+
+### 🛠 Tech Stack
+
+**Frontend:** JavaScript, TypeScript, React, Redux Toolkit, RTK Query
+
+**Styling:** HTML5, CSS3, SCSS, BEM, Bootstrap
+
+**Backend & CMS:** PHP, 1C-Bitrix, REST API
+
+**Tools:** Git, Vite, Webpack, npm
+
+### 💼 Selected Commercial Projects
+
+**[Sure Moscow](https://sure.moscow)** — Website development and maintenance, responsive UI components and interactive functionality.
+
+**[ROSI Store](https://rosi-store.ru/)** — E-commerce frontend improvements, product galleries and interactive elements.
+
+**[SBMRNE](https://sbmrne.ru/)** — Commercial web project.
+
+**[DVLT](https://dvlt.ru/)** — Website maintenance and frontend updates.
+
+### 📬 Get in Touch
+
+- Telegram: [@mxgld](https://t.me/mxgld)
 - Email: gladkiiya@gmail.com
-- LinkedIn: [мой LinkedIn](https://linkedin.com/in/mgladky/)
-- HH: [мое резюме на hh.ru](https://spb.hh.ru/resume/27af996fff0cf43be50039ed1f734552553945)
-- CodeWars: [профиль на CodeWars](https://www.codewars.com/users/gladkym)
 
-
-## 🥷 Мои проекты
-##  Коммерческие:
-Последние проекты: 
-
-- https://aomeduslugi.ru
-- https://dvlt.ru/
-- https://sure.moscow
-- https://rosi-store.ru/
-- https://sbmrne.ru/
-
-  
-
-## 🛠 Технологии 
-- HTML, CSS/SCSS
-- JavaScript, TypeScript
-- React, Redux, RTK Query
-- Git, REST API
-
+Open to remote frontend development opportunities.
